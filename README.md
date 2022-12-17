@@ -8,6 +8,9 @@ Gatsby + Tailwind + Framer Motion powered boilerplate
 
 [https://gatsby-tailwind-motion.netlify.com](https://gatsby-tailwind-motion.netlify.com)
 
+![image](https://user-images.githubusercontent.com/3153995/208251091-68ae5563-60a5-4d6b-a436-39a357507a96.png)
+
+
 ## 🚀 Quick start
 
 1.  **Clone the repo**
